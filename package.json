@@ -1,0 +1,17 @@
+{
+  "name": "modfin",
+  "version": "1.0.0",
+  "description": "Modfin puzzle solution",
+  "main": "medianExchange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "solution": "node -e 'require(\"./medianExchange\").solution()'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "collections": "^5.1.2",
+    "jest": "^22.0.6",
+    "requestify": "^0.2.5"
+  }
+}
